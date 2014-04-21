@@ -1,0 +1,23 @@
+
+
+CmdLine:	C:\ZYXcoder\FishStatV2\FishStat.exe --l4j-debug
+WOW64:		yes
+Check launcher:	 (n/a)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Match:		SOFTWARE\JavaSoft\Java Runtime Environment\1.6
+Match:		SOFTWARE\JavaSoft\Java Runtime Environment\1.6.0_21
+Match:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7
+Match:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7.0_07
+Using 64-bit runtime.
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Ignore:		SOFTWARE\JavaSoft\Java Development Kit\1.7
+Ignore:		SOFTWARE\JavaSoft\Java Development Kit\1.7.0_07
+Using 64-bit runtime.
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Unlink:		C:\Program Files\Java\jre7\launch4j-tmp\launch4j.exe
+Unlink:		C:\Program Files\Java\jre7\launch4j-tmp\launch4j.exe.manifest
+Copy:		C:\Program Files\Java\jre7\bin\javaw.exe -> C:\Program Files\Java\jre7\launch4j-tmp\FishStat.exe
+Launcher:	C:\Program Files\Java\jre7\launch4j-tmp\FishStat.exe
+Launcher args:	-jar "C:\ZYXcoder\FishStatV2\FishStat.exe"
+Args length:	42/32768 chars
+Exit code:	0
